@@ -1,5 +1,6 @@
 Just homework for the course : https://subingwen.cn/linux/.
 
+~~~shell
 peng@ubuntu:~/code_space/cpp_space$ cloc linux_base
       84 text files.
       73 unique files.                              
@@ -16,3 +17,4 @@ make                             1              6              9              2
 -------------------------------------------------------------------------------
 SUM:                            69            699            383           2897
 -------------------------------------------------------------------------------
+~~~
