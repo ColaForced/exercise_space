@@ -1,3 +1,5 @@
+//约瑟夫环 --链表模拟法
+
 struct LinkNode
 {
     int val;
